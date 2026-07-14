@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-n44-meals",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "eb110fc9-1186-4962-b6d0-8fb406e17ba3",
+			"database_name": "d1-n44-meals-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
